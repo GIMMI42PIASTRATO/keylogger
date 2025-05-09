@@ -1,0 +1,599 @@
+
+=== SERVER AVVIATO 2025-05-09 19:23:11.163169 ===
+
+
+=== SERVER AVVIATO 2025-05-09 19:23:12.785251 ===
+
+[PC: PC_TEST] [TEST_TIME]
+Questo è un test dal programma di diagnostica
+[PC: DESKTOP-GIMMI] [2025-05-09 19:37:03.100981]
+
+
+=== INIZIO SESSIONE 2025-05-09 19:37:03.100948 - PC: DESKTOP-GIMMI ===
+
+
+[PC: DESKTOP-GIMMI] [2025-05-09 19:38:03.113182]
+
+
+[2025-05-09 19:37:10.562936] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:37:10.641460] Finestra: Notepad.exe - *Allora, chissa che cazzo sta facend - Blocco note
+[TAB][ALT]
+
+[2025-05-09 19:37:11.644329] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:37:11.716329] Finestra: WindowsTerminal.exe - PowerShell
+[TAB][SHIFT]ciao osno io una presona che sa scrivere a battituara [BACKSPACE][BACKSPACE]_[BACKSPACE]?[SHIFT]
+
+[2025-05-09 19:37:21.577270] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][TAB][TAB][ALT][TAB][ALT][ALT]
+
+[2025-05-09 19:38:01.206226] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:38:01.687241] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:38:01.744373] Finestra: explorer.exe - Documents - Esplora file
+[TAB]
+
+[2025-05-09 19:38:02.766213] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:39:03.133561]
+
+
+[2025-05-09 19:38:07.889304] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+b[CTRL]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:40:03.154315]
+
+
+[2025-05-09 19:39:04.957271] Finestra: WindowsTerminal.exe - PowerShell
+[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][CTRL][SHIFT]ma quindi quetso ufnziona veramente bene [BACKSPACE]_)[SHIFT][BACKSPACE][BACKSPACE]?[SHIFT]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:43:03.176537]
+
+
+[2025-05-09 19:42:15.186211] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:42:15.232254] Finestra: Code.exe - activity_DESKTOP-GIMMI.txt - keylogger - Visual Studio Code
+[TAB]b[CTRL][CTRL]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:44:03.198237]
+
+
+[2025-05-09 19:43:06.222874] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:06.254130] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:08.069970] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:08.131877] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:43:08.465910] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:08.525980] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:08.867908] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:08.923823] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:43:13.106989] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:13.167969] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:22.496830] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:22.544846] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:43:25.404959] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:25.473836] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:33.876841] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT][ALT]
+
+[2025-05-09 19:43:34.444790] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:42.303918] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:42.328203] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:43:42.794818] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:42.830760] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:43:43.019817] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:43:43.054806] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB][SHIFT]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:45:03.223253]
+
+
+[2025-05-09 19:44:13.664735] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:44:13.711145] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:44:30.700741] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT][ALT]
+
+[2025-05-09 19:44:32.241778] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:44:33.476804] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:44:33.494504] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:44:34.352985] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:44:34.413847] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:44:57.786004] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:44:57.825850] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:44:58.477074] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:44:58.533824] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:46:03.241397]
+
+
+[2025-05-09 19:45:20.744349] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:20.828912] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:45:21.084837] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:21.132685] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:45:24.803310] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:24.850694] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:45:27.250614] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:27.322746] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:45:29.418100] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:29.465905] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:45:31.380693] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:31.441802] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:45:39.066720] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:39.085732] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:45:46.393852] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:45:46.459792] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:02.570667] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:02.635743] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:02.978670] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:03.034773] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:47:03.256889]
+
+
+[2025-05-09 19:46:03.246574] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:03.303587] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:09.139724] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:09.198749] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:15.461605] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:15.499628] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:20.594598] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:20.641711] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:25.980710] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:26.017734] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:27.276684] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:27.348637] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:48.240648] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:48.304563] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:48.768023] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:48.814753] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:48.990599] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:49.028560] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:54.669644] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:54.727947] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:46:55.548709] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:46:55.580650] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:55.780605] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT][TAB][ALT][TAB][TAB][ALT][ALT]
+
+[2025-05-09 19:46:57.140310] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:46:58.148569] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT][TAB][ALT][ALT]
+
+[2025-05-09 19:47:00.277639] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:48:03.268802]
+f[CTRL]
+
+[2025-05-09 19:47:30.613520] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:47:30.638059] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:47:46.987645] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:47:47.047648] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB][CTRL]
+
+[2025-05-09 19:47:52.405491] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT][TAB][TAB][TAB][TAB][ALT]
+
+[2025-05-09 19:47:55.457617] Finestra: brave.exe - Nuova scheda - Brave
+loggin log every time 
+[PC: DESKTOP-GIMMI] [2025-05-09 19:49:03.281265]
+there is a request_[SHIFT][BACKSPACE]?[SHIFT]
+
+[2025-05-09 19:48:09.126561] Finestra: brave.exe - New Tab - Brave
+[ENTER]
+
+
+[2025-05-09 19:48:17.376000] Finestra: brave.exe - loggin log every time there is a request? at DuckDuckGo - Brave
+[CTRL][LEFT][CTRL]python \[BACKSPACE][ENTER]
+
+
+[2025-05-09 19:48:33.758503] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:48:33.801636] Finestra: Spotify.exe - Marshmello - Here With Me
+[TAB]
+
+[2025-05-09 19:48:34.065584] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:48:34.123213] Finestra: brave.exe - logging - Log all requests from the python-requests module - Stack Overflow - Brave
+[TAB]
+
+[2025-05-09 19:48:34.438477] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT]
+
+[2025-05-09 19:48:34.619045] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:48:35.048428] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT][TAB][TAB][ALT][ALT]
+
+[2025-05-09 19:48:36.052465] Finestra: brave.exe - logging - Log all requests from the python-requests module - Stack Overflow - Brave
+[TAB]
+
+[2025-05-09 19:48:37.423848] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT]
+
+[2025-05-09 19:48:38.126321] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]ac[CTRL]
+
+[2025-05-09 19:48:41.322490] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][TAB]
+
+[2025-05-09 19:48:42.200621] Finestra: explorer.exe - 
+[ALT]
+
+[2025-05-09 19:48:42.629528] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:48:42.654047] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:48:42.916566] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][ALT][ALT]
+
+[2025-05-09 19:48:43.478183] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:48:44.628443] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT][ALT]
+
+[2025-05-09 19:48:45.661092] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:48:45.912706] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:48:45.945789] Finestra: brave.exe - logging - Log all requests from the python-requests module - Stack Overflow - Brave
+[TAB]
+
+[2025-05-09 19:48:51.787397] Finestra: brave.exe - ChatGPT - Brave
+H[SHIFT]op [BACKSPACE][BACKSPACE] quetso file python>[BACKSPACE]:[ENTER]
+[ENTER]
+[SHIFT]v[ALT]v[CTRL][ENTER]
+[ENTER]
+[SHIFT][SHIFT]H[SHIFT]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:50:03.286194]
+o un file di log dove ci osno tutti i log [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][CTRL]per il debuggin t[BACKSPACE]e vedo che quando v[BACKSPACE][CTRL][BACKSPACE][BACKSPACE][CTRL]aqau[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]quando viene invitao[BACKSPACE]aa u[BACKSPACE][BACKSPACE][BACKSPACE] un arichiesta loggin scriv eun emssgagio di log lla-in[BACKSPACE][BACKSPACE][BACKSPACE]'intern odel file, anche se io h[BACKSPACE]non ho sc[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]ho scritto alcuna s[BACKSPACE]itsr[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]istur[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]isturzione per falro [BACKSPACE]. E[RIGHT SHIFT][BACKSPACE][[BACKSPACE][[BACKSPACE]][BACKSPACE][LEFT WINDOWS] [[BACKSPACE]
+
+[2025-05-09 19:49:53.965521] Finestra: Sconosciuto
+[LEFT WINDOWS]
+
+[2025-05-09 19:49:54.012659] Finestra: SearchHost.exe - Cerca
+ [BACKSPACE][ESC]
+
+[2025-05-09 19:49:55.407233] Finestra: brave.exe - ChatGPT - Brave
+[BACKSPACE][ [BACKSPACE][BACKSPACE][LEFT WINDOWS] ; una cosa che f ain automtaico{[SHIFT][ENTER]
+
+[PC: DESKTOP-GIMMI] [2025-05-09 19:51:03.304385]
+
+
+[2025-05-09 19:50:37.400517] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:50:37.427764] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:50:38.052295] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:50:38.108550] Finestra: brave.exe - Logging in Python Script - Brave
+[TAB]
+
+[2025-05-09 19:50:38.345470] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT]
+
+[2025-05-09 19:50:43.065842] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+c[CTRL]
+
+[2025-05-09 19:50:43.510373] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:50:43.537030] Finestra: brave.exe - Logging in Python Script - Brave
+[TAB][RIGHT SHIFT]quetos ; un clas[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]classico ciclo di log che venogno ftati [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]ftati[BACKSPACE][CTRL]creati ad ogni richiesta>[ENTER]
+?[SHIFT][BACKSPACE][SHIFT][CTRL]v[ENTER]
+[ENTER]
+[SHIFT]I[SHIFT]o nel io[BACKSPACE][BACKSPACE]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:52:03.322530]
+mio codice non ho scritto il [BACKSPACE][BACKSPACE][BACKSPACE] quetso due [BACKSPACE][BACKSPACE][BACKSPACE][CTRL]scritto di s[CTRL][BACKSPACE][BACKSPACE][BACKSPACE][CTRL]scri[BACKSPACE][CTRL]ri[BACKSPACE][BACKSPACE]scritto le istruizoni per scrivere quetsi due log>[SHIFT][CTRL]c[ENTER]
+[SHIFT]v[CTRL][ENTER]
+
+
+[2025-05-09 19:51:47.737555] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:51:47.775268] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:51:53.155314] Finestra: explorer.exe - Passaggio da un programma all'altro
+[TAB][TAB][ALT][ALT]
+
+[2025-05-09 19:51:55.682260] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:51:57.444194] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:51:57.501285] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:53:03.341617]
+
+
+[2025-05-09 19:52:43.876229] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:52:43.947368] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:52:46.771351] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:52:46.851171] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:52:51.107242] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:52:51.159187] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:52:56.282224] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:52:56.346154] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:54:03.362715]
+
+
+[2025-05-09 19:53:14.854206] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:53:14.918227] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB][ALT]
+
+[2025-05-09 19:53:16.492152] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:53:16.534059] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:53:19.869351] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:53:19.917172] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:53:26.169130] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:53:26.255261] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:55:03.380676]
+
+
+[2025-05-09 19:54:41.070076] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:54:41.130066] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+
+[2025-05-09 19:54:43.320207] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:54:43.378007] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+
+[2025-05-09 19:55:00.431048] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:55:00.481073] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 19:56:03.389726]
+
+
+[2025-05-09 19:56:00.118360] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 19:56:00.151887] Finestra: Notepad.exe - keylogger_debug.log - Blocco note
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 20:00:03.423069]
+
+
+[2025-05-09 19:59:36.891627] Finestra: WindowsTerminal.exe - PowerShell
+ssh rikivk2006@[RIGHT SHIFT][BACKSPACE][ALT GR]'[BACKSPACE]'[BACKSPACE][LEFT WINDOWS][ALT GR] @[RIGHT SHIFT]192.168.1.1[ENTER]
+[UP][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][UP][UP][UP][UP][UP][UP][UP][UP][UP][DOWN][DOWN][DOWN]
+[PC: DESKTOP-GIMMI] [2025-05-09 20:01:03.434731]
+[UP][BACKSPACE][BACKSPACE][BACKSPACE][CTRL][ESC]
+
+[2025-05-09 20:00:06.060789] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 20:00:06.090557] Finestra: Code.exe - activity_DESKTOP-GIMMI.txt - keylogger - Visual Studio Code
+[TAB]f[CTRL]ssh
+[PC: DESKTOP-GIMMI] [2025-05-09 20:03:03.451651]
+
+
+[2025-05-09 20:02:07.380455] Finestra: WindowsTerminal.exe - PowerShell
+ciao
+[PC: DESKTOP-GIMMI] [2025-05-09 20:05:03.469250]
+
+
+[2025-05-09 20:04:18.294352] Finestra: explorer.exe - 
+[LEFT WINDOWS]
+
+[2025-05-09 20:04:18.356283] Finestra: explorer.exe - Visualizzazione attività
+[TAB][LEFT WINDOWS][TAB]
+
+[2025-05-09 20:04:19.256397] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 20:04:19.322318] Finestra: WindowsTerminal.exe - PowerShell
+[TAB]
+
+[2025-05-09 20:04:19.790439] Finestra: explorer.exe - Passaggio da un programma all'altro
+[ALT]
+
+[2025-05-09 20:04:19.847379] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB][CTRL][TAB]
+
+[2025-05-09 20:04:24.786248] Finestra: Code.exe - server_debug.log - keylogger - Visual Studio Code
+b[CTRL]
+
+[2025-05-09 20:04:36.889346] Finestra: Code.exe - activity_DESKTOP-GIMMI.txt - keylogger - Visual Studio Code
+[CTRL]
+
+[2025-05-09 20:04:36.938563] Finestra: Code.exe - main.py - keylogger - Visual Studio Code
+[TAB]
+[PC: DESKTOP-GIMMI] [2025-05-09 20:08:03.510067]
+f[CTRL]passia[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]passaggio[BACKSPACE][CTRL]passigagio[BACKSPACE][CTRL]
