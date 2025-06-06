@@ -126,5 +126,5 @@ if __name__ == "__main__":
     with open(ACTIVITY_LOG_PATH, "a", encoding="utf-8") as f:
         f.write(f"\n=== SERVER AVVIATO {datetime.datetime.now()} ===\n\n")
 
-    logging.info("Server in avvio su 0.0.0.0:5000")
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    logging.info("Server in avvio su 0.0.0.0:3010")
+    app.run(host="0.0.0.0", port=3010, debug=True)

